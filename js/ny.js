@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Redireciona para o WhatsApp
         // SUBSTITUA SEU_NUMERO pelo seu WhatsApp (apenas números, ex: 5511999999999)
-        const urlWhatsApp = `https://wa.me/5545988127886?text=${encodeURIComponent(mensagem)}`;
+        const urlWhatsApp = `https://wa.me/554599000950?text=${encodeURIComponent(mensagem)}`;
         window.open(urlWhatsApp, '_blank');
 
         // Reseta a seleção
